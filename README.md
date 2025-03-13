@@ -14,15 +14,18 @@ YoutubeTranscriber é uma ferramenta para extrair e transcrever áudios de víde
 
 Certifique-se de ter o Python 3.8+ instalado e siga os passos abaixo:
 
-# Clone o repositório
+📥 Clone o repositório
+
 git clone https://github.com/seu-usuario/YoutubeTranscriber.git
 cd YoutubeTranscriber
 
-# Crie um ambiente virtual (opcional, mas recomendado)
+🏗️ Crie um ambiente virtual (opcional, mas recomendado)
+
 python -m venv venv
 source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
 
-# Instale as dependências
+📦 Instale as dependências
+
 pip install -r requirements.txt
 
 🎯 Uso
